@@ -1,0 +1,15 @@
+{
+  "Id": "TeaLovingLad.NOOB",
+  "AssemblyPath": null,
+  "PackPath": "TeaLovingLad.NOOB.pck",
+  "Dependencies": [
+    "Sulayre.Lure"
+  ],
+  "Metadata": {
+    "Name": "NOOB (Noses of Overt Boopability)",
+    "Author": "Tea-Lovng Lad",
+    "Version": "1.0.0",
+    "Description": "A collection of noses for your characters !",
+    "Homepage": "https://github.com/TeaLovingGerman/TeaLovingLadMOP"
+  }
+}
