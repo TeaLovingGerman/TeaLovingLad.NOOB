@@ -2,7 +2,7 @@
   "name": "TeaLovingLad.NOOB",
   "description": "A collection of noses for your characters!",
   "version_number": "1.0.0",
-  "website_url": "https://github.com/TeaLovingGerman/TeaLovingLadMOP",
+  "website_url": "https://github.com/TeaLovingGerman/TeaLovingLad.NOOB",
   "dependencies": [
     "NotNet-GDWeave-2.0.13",
     "Sulayre-Lure-4.2.1"

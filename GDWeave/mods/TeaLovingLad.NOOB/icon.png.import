@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/icon.png-97ad4947534275c7035dcafdd94df39f.stex"
+path="res://.import/icon.png-e37ed593f76123693148d8095e592b9c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/TeaLovingLad.MOP/icon.png"
-dest_files=[ "res://.import/icon.png-97ad4947534275c7035dcafdd94df39f.stex" ]
+source_file="res://mods/TeaLovingLad.NOOB/icon.png"
+dest_files=[ "res://.import/icon.png-e37ed593f76123693148d8095e592b9c.stex" ]
 
 [params]
 
@@ -20,7 +20,7 @@ compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
-flags/filter=true
+flags/filter=false
 flags/mipmaps=false
 flags/anisotropic=false
 flags/srgb=2
