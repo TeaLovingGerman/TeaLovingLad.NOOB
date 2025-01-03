@@ -1,10 +1,10 @@
 {
   "name": "TeaLovingLadNOOB",
   "description": "A collection of noses for your characters!",
-  "version_number": "1.0.0",
+  "version_number": "1.0.2",
   "website_url": "https://github.com/TeaLovingGerman/TeaLovingLad.NOOB",
   "dependencies": [
     "NotNet-GDWeave-2.0.13",
-    "Sulayre-Lure-4.2.1"
+    "TeamLure-LureRefreshed-4.3.0"
   ]
 }
